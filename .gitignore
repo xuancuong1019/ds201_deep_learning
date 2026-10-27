@@ -221,3 +221,6 @@ __marimo__/
 
 t10k-*
 train-*
+
+# Ignore raw MNIST data
+Lab01/data/MNIST/raw/
