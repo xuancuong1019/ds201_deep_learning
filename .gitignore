@@ -229,3 +229,4 @@ Lab01/data/MNIST/raw/
 *.png
 *.jpg
 *.jpeg
+images/
