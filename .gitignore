@@ -224,3 +224,8 @@ train-*
 
 # Ignore raw MNIST data
 Lab01/data/MNIST/raw/
+
+# Ignore pics
+*.png
+*.jpg
+*.jpeg
